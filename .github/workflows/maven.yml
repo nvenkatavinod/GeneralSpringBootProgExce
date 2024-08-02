@@ -26,4 +26,4 @@ jobs:
       with:
        name: Package
        path: staging
-    - run: echo node -v 
+ 
